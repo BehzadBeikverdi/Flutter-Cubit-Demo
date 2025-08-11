@@ -1,4 +1,4 @@
-import 'package:testt/pages/common/toggle_theme_cubit.dart';
+import 'package:testt/common/toggle_theme_cubit.dart';
 
 class MainViewmodel {
   late final ToggleThemeCubit toggleThemeCubit;

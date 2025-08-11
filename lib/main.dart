@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:testt/pages/common/main_viewmodel.dart';
-import 'package:testt/pages/common/toggle_theme_cubit.dart';
-import 'package:testt/pages/common/toggle_theme_state.dart';
 import 'package:testt/pages/first_page/first_page.dart';
+
+import 'common/main_viewmodel.dart';
+import 'common/toggle_theme_cubit.dart';
+import 'common/toggle_theme_state.dart';
 
 void main() {
   runApp(MyApp());

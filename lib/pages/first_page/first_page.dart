@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:testt/pages/first_page/first_viewmodel.dart';
 import 'package:testt/pages/first_page/states/counter_state.dart';
-import '../common/toggle_theme_cubit.dart';
+import '../../common/toggle_theme_cubit.dart';
 import 'cubits/counter_cubit.dart';
 
 class FirstPage extends StatefulWidget {
